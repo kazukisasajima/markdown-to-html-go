@@ -32,6 +32,5 @@ go run file_converter.go markdown sample.md output.html
 
 
 変換したHTMLをブラウザで表示すると、
-<img width="510" alt="{CD418CD0-C57D-4584-BB2C-1DEAB5C2D283}" src="https://github.com/user-attachments/assets/22f11132-b994-4a65-b4f6-1006db0ef4da">
-
+<img width="610" alt="{CD418CD0-C57D-4584-BB2C-1DEAB5C2D283}" src="https://github.com/user-attachments/assets/22f11132-b994-4a65-b4f6-1006db0ef4da">  
 のようになります。
